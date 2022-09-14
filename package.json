@@ -1,0 +1,22 @@
+{
+  "name": "alexwebapp",
+  "version": "1.0.0",
+  "description": "AW App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarbageCollectr/webapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarbageCollectr/webapp/issues"
+  },
+  "homepage": "https://github.com/GarbageCollectr/webapp#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
